@@ -1,3 +1,5 @@
+//Ejercicio generador de excusas
+
 let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
 let action = ['ate', 'peed', 'crushed', 'broke'];
 let what = ['my homework', 'my phone', 'the car'];
@@ -12,6 +14,10 @@ function generateExcuse() {
   return `${whoRandom} ${actionRandom} ${whatRandom} ${whenRandom}`;
 }
 
+
+
+
+//____________________________________________________________________________________________________________________________________________________________
 //Ejercicio generador de dominios
 
   let dominios=[
